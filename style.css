@@ -11,6 +11,10 @@ h1{
     text-decoration: underline;
     margin: 30px 18px;
 }
+h3{
+    font-size: 1.5rem;
+    margin: 30px 18px;
+}
 
 form{
 
@@ -28,7 +32,7 @@ form{
 
 li{
     display: flex;
-    padding: 5px 4px ;
+    /* padding: 5px 4px ; */
     width: 40Vw;
     justify-content: space-between;
 }
